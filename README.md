@@ -1,150 +1,157 @@
-<h1 align="center">FinEase: Your Automated Financial Planner 💰</h1>
+# **WealthWise**: Empowering Rural Women with Financial Independence 💰  
 
-<p align="center">
-  <b>Powered by Microsoft Azure</b>
-</p>
-
-<p align="center">
-  Welcome to <b>FinEase</b>, a revolutionary platform that harnesses the power of generative AI to provide personalized, data-driven financial advice. FinEase integrates all aspects of financial planning into one easy-to-use platform, helping users manage their finances with confidence and ease.
-</p>
+Welcome to **WealthWise**, a transformative financial planning platform crafted to empower **women in rural communities**. By leveraging **generative AI** and **data-driven insights**, WealthWise simplifies financial management, promotes financial literacy, and fosters economic independence.  
 
 ---
 
-## 📜 Table of Contents
+## 📜 **Table of Contents**  
 
-1. [Challenge Overview](#challenge-overview)
-2. [Problem Statement](#problem-statement)
-3. [Solution](#solution)
-4. [Features](#features)
-5. [Technology Stack](#technology-stack)
-6. [Architecture](#architecture)
-7. [Business Relevance](#business-relevance)
-8. [Team](#team)
-
----
-
-## 🚀 Challenge Overview
-
-**Challenge 5:** Revolutionize financial advisory services using generative AI to provide personalized, data-driven financial advice to customers.
+1. [Overview](#overview)  
+2. [Problem Statement](#problem-statement)  
+3. [Solution](#solution)  
+4. [Features](#features)  
+5. [Technology Stack](#technology-stack)  
+6. [Architecture](#architecture)  
+7. [Business Relevance](#business-relevance)  
+8. [Team](#team)  
 
 ---
 
-## 💡 Problem Statement
+## 🌟 **Overview**  
 
-### 🚨 Problem
-Individuals struggle to navigate intricate financial systems, leading to stress, confusion, and a lack of confidence. Conventional methods and static apps fail to adapt to diverse user needs and are often costly and inaccessible.
-
-### 🏛️ Context
-People need tools that combine all financial tasks, like retirement investing and budget planning, into one user-friendly platform. The current fragmented approach using multiple apps is confusing and risky, leading to potential data breaches and identity theft.
-
-### 📊 Quantifiable Impact
-- More savings
-- Better investments
-- Less stress
+WealthWise is a **one-stop solution** for financial planning tailored specifically to the unique needs of **rural women**. By integrating **cutting-edge technology** and **culturally relevant solutions**, WealthWise empowers users to confidently take control of their financial future.  
 
 ---
 
-## 🌟 Solution
+## 💡 **Problem Statement**  
 
-### FinEase: An Automated Financial Planner
-FinEase is a comprehensive financial management platform that offers:
-- 📊 Budget tracking
-- 🏦 Retirement planning
-- 📈 Investment portfolio management
-- 📚 Financial literacy resources
-- 🌱 Sustainability scoring for spendings
-- 🤖 Chatbot support in 22 languages
+### 🚨 **Challenges Faced by Rural Women**  
+- Limited **access to financial services**  
+- Insufficient **financial literacy**  
+- Dependence on **traditional systems**  
+- Lack of tools for **savings** and **investment planning**  
 
-### Impact Metrics 📈
-- User engagement
-- Financial literacy improvement
-- Savings rate
-- Investment returns
-- Customer satisfaction
+### 🏛️ **Context**  
+**WealthWise** bridges the gap between **modern financial tools** and the underserved **rural population** by offering an intuitive and inclusive platform, available in **multiple languages** and **accessible even in low-resource settings**.  
 
 ---
 
-## 🎯 Features
+## 🌟 **Solution**  
 
-- **📊 Budget Tracking and Goal Setting:** Easily monitor and plan your budget.
-- **🏦 Retirement Planning:** Utilize the NewRetirement API for retirement plans.
-- **📈 Investment Portfolio Management:** Real-time data analysis for investments.
-- **📚 Financial Literacy:** Access blogs, quizzes, and educational resources.
-- **🔍 Accessibility:** Special modes for visually impaired users and voice-over functionality.
-- **🤖 Chatbot Support:** Available in 22 different languages.
-- **🌱 Sustainability Score:** Analyze and score the sustainability of your spendings.
-- **🔒 Advanced Security:** Features like AES, RBAC, and SSL/TLS encryption ensure your data is secure.
+### WealthWise: Your Financial Ally  
+**WealthWise** combines **AI-powered intelligence** with **community-centric features** to address challenges such as:  
+- Budget management  
+- Savings and investment planning  
+- Financial education  
 
----
-
-## 🛠️ Technology Stack
-
-- **🔒 PostgreSQL:** Advanced security features and data consistency.
-- **📝 TypeScript:** Provides better type safety as a superset of JavaScript.
-- **🐍 Python:** Primary language for TensorFlow and PyTorch.
-- **☁️ Microsoft Azure:** Scalability with robust management tools.
-- **🔗 Embedchain RAG Framework & Microsoft Azure OpenAI:** Advanced text similarity and AI model integration.
-- **🌐 IndicTrans2 (AI4Bharat):** High-quality machine translation for 22 languages.
-- **🔥 PyTorch & Keras:** Flexibility, GPU acceleration, simplicity, and rapid prototyping.
-- **⚛️ React & Tailwind CSS:** Popular framework and styling for building user interfaces.
+### 🌈 **Key Benefits**  
+- Simplified **budget tracking**  
+- Long-term **financial security**  
+- Improved **financial awareness**  
+- Greater **economic independence** for women  
 
 ---
 
-## 🏗️ Architecture
+## 🎯 **Features**  
 
-![Team - Finease - Page 1](https://github.com/hardik-malani/Finease-BOB-Hackathon/assets/82711261/7fd7b849-703d-49f0-8514-5816853d9f6a)
+1. **📊 Budget Tracking and Goal Setting**  
+   - Intuitive tools to monitor income and expenses.  
+   - Set and achieve **savings goals** tailored to individual needs.  
 
+2. **📚 Financial Literacy Resources**  
+   - Multilingual educational materials, videos, and quizzes.  
+   - Simplified content focusing on rural needs.  
 
-FinEase's architecture ensures seamless interaction between the frontend and backend components, including:
-- 🔒 Authentication and authorization processes
-- 📊 Integration with financial data providers
-- ☁️ Scalability using Azure cloud computing platform
+3. **🤖 AI-Powered Chatbot**  
+   - Instant financial advice in **22 regional languages** using **IndicTrans2**.  
 
----
+4. **🏦 Savings and Investment Planning**  
+   - Tools to plan for **future needs**, like children’s education and retirement.  
 
-## 📊 Business Relevance
+5. **🌍 Sustainability Scoring**  
+   - Track the **environmental impact** of your spending habits.  
 
-### 🤝 Key Partners
-- **🏦 Financial Institutions:** Data security compliance
-- **🌱 Sustainability Organizations:** Carbon footprint analysis
-- **🔒 Technology Providers:** Infrastructure security
-- **📊 Data Providers:** Real-time financial data
-- **📚 Industry Experts:** Financial advice expertise
+6. **🔒 Advanced Security Features**  
+   - **AES encryption**, **RBAC**, and **multi-factor authentication** for robust data protection.  
 
-### 🌟 Value Propositions
-- Simplifying financial planning
-- Multilingual chatbot support
-- Financial literacy resources
-- Sustainability scoring and analysis
-- Inclusivity and accessibility
-
-### 🎯 Customer Segments
-- Young professionals
-- Families
-- Retirees
-- Socially conscious investors
-
-### 💸 Revenue Streams
-- Subscription-based model for premium features
-- Freemium model with basic features
-- Revenue sharing from premium content and financial literacy
+7. **📱 Accessible User Interface**  
+   - Features designed for **low literacy users** and **visually impaired individuals**.  
 
 ---
 
-## 👥 Team
+## 🛠️ **Technology Stack**  
 
-- **Hardik Malani**
-- **Anouska Jhunjhunwala**
-- **Tuhina Tripathi**
+### **Frontend**  
+- **React**: Responsive and dynamic user interfaces.  
+- **Tailwind CSS**: Fast and customizable styling.  
+
+### **Backend**  
+- **Node.js**: Scalable server-side processing.  
+- **Express.js**: Streamlined API development.  
+
+### **Database**  
+- **PostgreSQL**: Secure and reliable data storage.  
+
+### **AI and Machine Learning**  
+- **TensorFlow** and **PyTorch**: Real-time predictive analytics.  
+- **Microsoft Azure OpenAI Services**: Natural language processing.  
+
+### **Localization and Accessibility**  
+- **IndicTrans2**: Supports **22 Indian languages** for inclusivity.  
+
+### **Cloud Infrastructure**  
+- **Microsoft Azure**: Scalability and robust infrastructure.  
 
 ---
 
-## 🔗 Important Links
+## 🏗️ **Architecture**  
 
-- [🎨 Figma Designs](https://www.figma.com/proto/Bi2alauH31CGJ2bw8nGiSx/Untitled?type=design&node-id=190-22522&t=Pa16i9NyVi1lxtUg-1&scaling=contain&page-id=190%3A14410&starting-point-node-id=190%3A23402&show-proto-sidebar=1&mode=design)
-- [🔄 Workflow Diagram](https://drive.google.com/file/d/1bAD6rc1QsE-oMJjZec4JrPyLvC-Lqy3F/view?usp=sharing)
-- [🏗️ Architecture Diagram](https://drive.google.com/file/d/197Ca-f68E-RnpzJLxKq718lpLxJmEqU6/view?usp=sharing)
+The **WealthWise architecture** ensures:  
+- **Seamless integration** of AI models with financial data.  
+- **Secure interactions** between users and the system.  
+- **Scalable cloud infrastructure** for future growth.  
 
-<p align="center">
-  Thank you for exploring FinEase. Together, let's simplify financial planning and empower users to manage their finances confidently!
-</p>
+![Architecture Diagram](#) *(Insert Architecture Diagram here)*  
+
+---
+
+## 📊 **Business Relevance**  
+
+### 🤝 **Key Partnerships**  
+- **Financial Institutions**: Data security compliance and integrations.  
+- **NGOs**: Promoting community adoption.  
+- **Technology Providers**: Infrastructure and AI tools.  
+
+### 🌟 **Value Propositions**  
+- Affordable **financial tools** for rural communities.  
+- Empowerment through **financial education**.  
+- Multilingual support for diverse users.  
+- Sustainability insights for responsible spending.  
+
+### 🎯 **Target Audience**  
+- Rural women entrepreneurs.  
+- Families in underserved regions.  
+- Socially conscious investors.  
+
+---
+
+## 👥 **Team**  
+
+WealthWise is brought to life by a dynamic team of innovators:  
+- **Manu M**  
+- **Satwik Rajendra Kini**  
+- **Chetan C Hiremath**  
+- **Ayush Satpathy**  
+- **Shreyas Nagoor**  
+
+---
+
+## 🔗 **Important Links**  
+
+- [🎨 Figma Designs](#)  
+- [📄 Workflow Diagram](#)  
+- [🏗️ Architecture Diagram](#)  
+
+---
+
+## 🛠
